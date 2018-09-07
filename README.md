@@ -4,4 +4,5 @@
 增加如下全局变量即可：
 
 define(MONGODB_HOST,'');    //mongo地址
+
 define(MONGODB_PORT,'');    //mongo端口
